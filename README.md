@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# Welcome to My GitHub!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is the landing repository for my GitHub Account and acts as a sort of centralized menu/"table of contents" for the projects and repositories in my account.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Eventually, I hope to upgrade this repository into becoming the host for a GitHub Pages-based personal blog.
